@@ -8,13 +8,10 @@
  /////////////////////////
 //Q2 
 
-
-
-
-
-
-
-
+function ahmed(value) {
+  return value ? value : "Invalid";
+}
+console.log(ahmed(0));
 
 ////////////////////
 // Q3
